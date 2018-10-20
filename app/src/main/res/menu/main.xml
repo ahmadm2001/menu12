@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuYellow"
+        android:title="YELLOW"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/menuRed"
+        android:title="RED"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/menuBlack"
+        android:title="BLACK"
+        android:orderInCategory="300"
+        />
+
+</menu>
